@@ -1,0 +1,35 @@
+SLA Name	Critical Key Measurement	Expected Service Level	Minimum Service Level 	ODP Owner	HCL Owner	Jan 2026 HCL SLA	Feb 2026 HCL SLA	Mar 2026 HCL SLA	April 2026 HCL SLA	May 2026 HCL SLA	June 2026 HCL SLA	July 2026 HCL SLA	Aug 2026 HCL SLA	Sept 2026 HCL SLA	Comments
+Cross Functional  Change Management Effectiveness	Critical Measurement	90	85	Shana Redden	Neeraj Mediratta	100	100	99	99	99	100	100	100		
+Cross Functional  Identification of Root Cause and Permanent Fix Plan	Critical Measurement	95	90	Shana Redden	Neeraj Mediratta	100	100	100	100	100	100	100	100		
+Cross Functional  Security Vulnerability Remediation	Critical Measurement	95	90	Shana Redden	Anil Agrawal	100	91	97	100	99	100	100	100		
+EUC  Software Distribution and Packaging  Managed Desktop Application Patch Distribution  On Time Delivery	Critical Measurement	95	90	Shana Redden	Rajesh GK	96	61	95	98	98	96	96	97		
+Intrusion Detection Prevention Service Availability	Critical Measurement	100	100	Georges Deroseney	Anil Agrawal	100	100	100	100	100	100	100	100		
+IPS IDS Signatures Security Enhancement Updates	Critical Measurement	100	99	Georges Deroseney	Anil Agrawal	100	100	100	100	100	100	100	100		
+MNS LAN  Critical LAN Site Availability	Critical Measurement	100	100	Georges	Priya Ranjan Singh	100	100	100	100	100	100	100	100		
+Patch Rating Process Availability	Critical Measurement	100	98	Terry Lunsford	Sneha Jagzape	100	100	100	100	100	100	100	100		
+Security  Mean Time to Respond  P1  within 15 minutes	Critical Measurement	98	97	Jon Scheidell	Anil Agrawal	100	99	100	100	100	100	100	100		
+Security  Mean Time to Respond  P2  within 30 minutes	Critical Measurement	98	97	Jon Scheidell	Anil Agrawal	100	100	100	100	100	100	100	100		
+Security  SOC Availability	Critical Measurement	98	97	Jon Scheidell	Anil Agrawal	100	100	100	100	100	100	100	100		
+Service Desk  First Contact Resolution Rate	Critical Measurement	90	85	Shana Redden	Sudhir Kumar	90	90	90	90	90	91	91	90		
+Aggregate Web Hosting Server Availability	Key Measurement	100	100	Terry Lunsford	Sneha Jagzape	100	100	100	100	100	100	100	100		
+Azure Virtual Desktop  AVD WVD 	Key Measurement	99	97	Shana Redden	Neha Sinha	100	100	100	100	100	100	100	100		
+Cross Functional  Disaster Recovery Test	Key Measurement	98	95	Richard Wys	Anil Agrawal	0	0	0	0	100	0	0	0		
+Cross Functional  Fulfillment of Service Request within Committed Timeframes	Key Measurement	95	93	Shana Redden	Neeraj Mediratta	97	96	98	98	99	98	98	98		
+Cross Functional  Major Incidents Caused by Change	Key Measurement	80	80	Shana Redden	Neeraj Mediratta	100	100	100	100	100	100	100	100		
+Cross Functional  Managed File Transfers Completed Without Incident	Key Measurement	98	97	Terry Lunsford	Prem Balasubramanian	99	99	99	99	99	99	99	99		
+Cross Functional  Priority Level 1 Incidents Resolved within Allocated Time  4 Hours 	Key Measurement	98	95	Shana Redden	Neeraj Mediratta	0	0	100	100	0	0	100	100		
+Cross Functional  Priority Level 2 Incidents Resolved within Allocated Time  8 Hours 	Key Measurement	95	90	Shana Redden	Neeraj Mediratta	100	100	0	100	100	100	0	100		
+Cross Functional  Priority Level 3 Incidents Resolved within Measurement Window	Key Measurement	95	90	Shana Redden	Neeraj Mediratta	98	97	97	96	96	99	96	99		
+Cross Functional  Status Updates  Major Incidents  30 Minutes 	Key Measurement	99	98	Shana Redden	Neeraj Mediratta	100	100	100	100	100	100	100	100		
+DevOps  Availability of the CloudbeesJenkins Operation Center	Key Measurement	100	100	Terry Lunsford	Dinesh Tiwari	100	100	100	100	100	100	100	100		
+Individual Cloud Server Availability	Key Measurement	100	100	Terry Lunsford	Sneha Jagzape	100	100	100	100	100	100	100	100		
+Individual OnPremises Server Availability  Retail 	Key Measurement	100	100	Terry Lunsford	Sneha Jagzape	100	100	100	100	100	100	100	100		
+MNS WAN  Critical WAN Site Availability	Key Measurement	100	100	Georges	Priya Ranjan Singh	100	100	100	100	100	100	100	100		
+MNS WAN  Standard WAN Site Availability	Key Measurement	100	100	Georges	Priya Ranjan Singh	100	100	100	100	100	100	100	100		
+Production Services  Batch Jobs Completed Without Incident	Key Measurement	98	97	Terry Lunsford	Prem Balasubramanian	100	100	100	100	100	100	100	100		
+Resolution of Priority Level 1 and 2 Security Events	Key Measurement	86	80	Jon Scheidell	Anil Agrawal	100	100	100	100	100	100	100	100		
+Root Cause Analysis  Implementation of Permanent fix for Major Incidents	Key Measurement	95	90	Shana Redden	Neeraj Mediratta	100	100	100	100	100	100	100	100		
+Security  Identity Provisioning  72 hours 	Key Measurement	99	98	Jon Scheidell	Sudhir Kumar	100	100	100	99	100	100	100	100		
+Security  Mean Time to Respond  P3 or higher  within 24 Hours	Key Measurement	95	90	Jon Scheidell	Anil Agrawal	100	82	100	100	100	100	100	100		
+Security  PKI Certificates Renewed 30 days prior to expiration date	Key Measurement	100	100	Terry Lunsford	Anil Agrawal	100	100	100	100	100	100	100	100		
+Service Desk  Speed to Answer within fortyfive  45  Seconds	Key Measurement	96	95	Shana Redden	Sudhir Kumar	96	97	100	94	95	97	97	97		
